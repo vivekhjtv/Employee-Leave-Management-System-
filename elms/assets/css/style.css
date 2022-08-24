@@ -1,0 +1,44 @@
+h4 {
+color: green!important;
+}
+
+nav .navbar{
+  background:#fa0f17!important;
+}
+
+nav .nav-item{
+	padding:0 35px!important;
+}
+
+nav a.nav-link{
+  font-size:16px!important;
+}
+
+nav a.nav-link:hover{
+  color:#000!important;
+  transition:0.5s;
+}
+
+nav a.nav-item:hover{
+  background:#fff!important;
+  padding:0 35px!important;
+  transition:0.5s;
+}
+
+.btn{
+	background: #3f51b5!important;
+}
+.mn-header, nav {
+  height: 82px !important;
+}
+.side-nav {
+ margin-top: 82px; 
+}
+.heading-title{  
+  margin-left: 0px;
+  margin-top: 25px;
+}
+
+.logo{
+  margin-top: 20px;
+}
